@@ -1,1 +1,1 @@
-# exercicios-py
+# Exercícios Fundamentos de Programação Computacional
